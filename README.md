@@ -1,6 +1,6 @@
-Oque é o little friend?
+Oque é o cy.lugh-tool
 -
-O little friend e um script cheio de outros scripts usados por hackers, tais como sqlmap, DoS, rapidscan, brutalforce entre outros, um script atualizado periodicamente, atualizado para melhor uso do usuario, se voce quer um script que tenha TUDO!, de mais importante e um ambiente pre projetado, voce achou!, aqui tem tudo para voce virar um hacker! (podendo conter versoes pagas, para um script feito para voce.)
+O cy.lugh-tool e um script cheio de outros scripts usados por hackers, tais como sqlmap, DoS, rapidscan, brutalforce entre outros, um script atualizado periodicamente, atualizado para melhor uso do usuario, se voce quer um script que tenha TUDO!, de mais importante e um ambiente pre projetado, voce achou!, aqui tem tudo para voce virar um hacker! (podendo conter versoes pagas, para um script feito para voce.)
 
 como instalar o termux no celular?
 -
@@ -16,11 +16,11 @@ pkg install python
 
 pkg install python3
 
-git clone https://github.com/slayerkk/LITTLE-FRIEND.git
+git clone https://github.com/slayerkk/CY-LUGH-TOOL
 
-cd LITTLE-FRIEND/
+cd CY-LUGH-TOOL
 
-python3 LITTLE-FRIEND2
+python3 CY-LUGH.py
 
 ==========================+==========================
 
